@@ -27,3 +27,4 @@ CREATE OR REPLACE TABLE retail_db.public.sales (
     total_price FLOAT,
     sale_date DATE
 );
+
