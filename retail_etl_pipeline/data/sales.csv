@@ -1,0 +1,4 @@
+sale_id,customer_id,product_id,sale_date,quantity,total_amount
+1001,1,101,2024-01-20,1,800
+1002,2,103,2024-02-10,2,50
+1003,3,102,2024-03-15,1,150
